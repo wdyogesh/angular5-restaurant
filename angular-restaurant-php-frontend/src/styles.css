@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+.timeheader_selected .scheduler_default_timeheader_cell_inner{
+  background-color: #93c47d;
+}
+
+.cell_selected.scheduler_default_cell,
+.cell_selected.scheduler_default_cell.scheduler_default_cell_business {
+  background-color: #b6d7a8;
+}
+
+.scheduler_default_event .scheduler_default_event_inner {
+  background: #f1c232;
+  background: #e6b8af;
+  border: 1px solid #bf9000;
+  border: 1px solid #cc4125;
+  padding: 4px;
+}
